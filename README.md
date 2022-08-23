@@ -37,13 +37,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=14652317" />
 
 #### My Current Stack
 
-<img height="48" src="img/Android_robot.svg" alt="Android">
-<img height="48" src="img/Dart-logo-icon.svg" alt="Dart">
-<img height="48" src="img/flutter_logo.svg" alt="flutter">
-<img height="48" src="img/git-original.svg" alt="git">
-<img height="48" src="img/gitlab-original.svg" alt="gitlab">
-<img height="48" src="img/linux-original.svg" alt="linux">
-<img height="48" src="img/cflogo.svg" alt="cf">
+<img height="48" src="img/Android_robot.svg" alt="Android"> <img height="48" src="img/Dart-logo-icon.svg" alt="Dart"> <img height="48" src="img/flutter_logo.svg" alt="flutter"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/gitlab-original.svg" alt="gitlab"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/cflogo.svg" alt="cf">
 
 #### Development Stuffs:
 

@@ -1,7 +1,12 @@
 
+
 ## Hi 👋, I'm a software engineer working in Dhaka, Bangladesh
 
 <p align="left">
+	<a href="https://codeforces.com/profile/xahid_71">
+<img alt="cf_ratings"
+src="https://raw.githubusercontent.com/xahid71/cf_handler/main/output/max_rating.svg" />
+</a>
 <a href="https://stackoverflow.com/users/14652317/xahid-rocks">
 <img alt="StackOverflow"
 src="https://stackoverflow-badge.vercel.app/?userID=14652317" />
@@ -22,7 +27,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=14652317" />
 
 #### Bio
 
-- 🏢 I'm currently working at **Caretutors.com** as Mobile application developer.
+- 🏢 I'm currently working at **Caretutors.com** as a  Mobile application developer.
 - ⚙️ I use daily: `.dart`.
 - 🌍 I'm mostly active within the **Flutter Community**
 - 🌱 Learning all about **Android, swift and dart**

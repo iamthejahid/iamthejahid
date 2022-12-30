@@ -48,8 +48,8 @@ src="https://stackoverflow-badge.vercel.app/?userID=14652317" />
 
 <b>⚡ Github Stats</b>
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xahid71&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xahid71&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamthejahid&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamthejahid&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 <b>&#128200; Competitive Programming</b>

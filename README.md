@@ -5,17 +5,17 @@
 <p align="left">
 	<a href="https://codeforces.com/profile/xahid_71">
 <img alt="cf_ratings"
-src="https://raw.githubusercontent.com/xahid71/cf_handler/main/output/max_rating.svg" />
+src="https://raw.githubusercontent.com/iamthejahid/cf_handler/main/output/max_rating.svg" />
 </a>
 <a href="https://stackoverflow.com/users/14652317/xahid-rocks">
 <img alt="StackOverflow"
 src="https://stackoverflow-badge.vercel.app/?userID=14652317" />
 </a>
-  <a href="https://github.com/xahid71?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/xahid71?color=green&logo=github">
+  <a href="https://github.com/iamthejahid?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/iamthejahid?color=green&logo=github">
   </a>
-  <a href="https://github.com/xahid71/">
-    <img src="https://komarev.com/ghpvc/?username=xahid71" alt="visitors" />
+  <a href="https://github.com/iamthejahid/">
+    <img src="https://komarev.com/ghpvc/?username=iamthejahid" alt="visitors" />
   </a>
 
 </p>
@@ -54,7 +54,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=14652317" />
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
-<img height="280em" src="https://raw.githubusercontent.com/xahid71/cf_handler/main/output/light_card.svg" />
+<img height="280em" src="https://raw.githubusercontent.com/iamthejahid/cf_handler/main/output/light_card.svg" />
 </p>
 
 

@@ -1,6 +1,4 @@
 
-
-
 ## Hi 👋, I'm a software engineer working in Dhaka, Bangladesh
 
 <p align="left">
@@ -56,11 +54,10 @@ src="https://stackoverflow-badge.vercel.app/?userID=14652317" />
 <b>&#128200; Competitive Programming 🏆</b>
 <p float="left">
 <img height="280em" src="https://raw.githubusercontent.com/iamthejahid/cf_handler/main/output/light_card.svg" />
-</p>
-
-<p float="left">
 <img height="280em" src="https://leetcard.jacoblin.cool/iamthejahid?theme=dark&extension=heatmap" />
 </p>
+
+
 
 
 #### Connect With Me

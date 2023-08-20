@@ -53,13 +53,14 @@ src="https://stackoverflow-badge.vercel.app/?userID=14652317" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamthejahid&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+<b>&#128200; Competitive Programming 🏆</b>
+<p float="left">
+<img height="280em" src="https://raw.githubusercontent.com/iamthejahid/cf_handler/main/output/light_card.svg" />
+</p>
 
-**🏆 Competitive Programming**
-![Competitive Programming](https://raw.githubusercontent.com/iamthejahid/cf_handler/main/output/light_card.svg)
-
-**LeetCode Stats**
-![LeetCode Stats](https://leetcard.jacoblin.cool/iamthejahid?theme=dark)
-
+<p float="left">
+<img height="280em" src="https://leetcard.jacoblin.cool/iamthejahid?theme=dark&extension=heatmap" />
+</p>
 
 
 #### Connect With Me

@@ -46,7 +46,7 @@
     - Grow ([Android](https://play.google.com/store/apps/details?id=com.heidelberg.compass)).
     - DutyDoc App ([Android](https://play.google.com/store/apps/details?id=com.dutydoc.app&hl=en&gl=US))
     - Caretutors App ([Android](https://play.google.com/store/apps/details?id=com.caretutors)).
-    - Caretutors App ([IOS](https://apps.apple.com/app/caretutors/id1607736513)).
+    - Caretutors App ([iOS](https://apps.apple.com/app/caretutors/id1607736513)).
     - Caretutors Merchant App([Android](https://play.google.com/store/apps/details?id=com.caretutors_merchant)).
 
 - 🔓 Opensource / Public Projects / Contributions:

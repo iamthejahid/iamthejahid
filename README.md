@@ -41,6 +41,11 @@
 
 <h3> 💼 Recent works</h3>
 
+- 📋 Frequently Used Personal Templates:
+    - [Flutter-riverpod-hive-go_router-quickstarter](https://github.com/iamthejahid/flutter_template-riverpod-hive-go_router-quickstarter)
+    - [Express-mongoDB-typescript-restAPI-quickstarter](https://github.com/iamthejahid/express-mongoDB-typescript-restAPI-quickstarter)
+
+
 - 🔥 Live projects:
     - Drutoloan ([Android](https://play.google.com/store/apps/details?id=com.drutoloan)).
     - Grow ([Android](https://play.google.com/store/apps/details?id=com.heidelberg.compass)).

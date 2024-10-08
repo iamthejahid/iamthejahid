@@ -1,3 +1,4 @@
+
 #### Hi, I am Jahid, who loves to craft solution, in a stupid yet effective way!
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejahid/)
@@ -47,6 +48,7 @@
 
 
 - 🔥 Live projects:
+    - Lafarge Holcim OneApp ([Android](https://play.google.com/store/apps/details?id=com.oneapp.lhblonline)).
     - Drutoloan ([Android](https://play.google.com/store/apps/details?id=com.drutoloan)).
     - Grow ([Android](https://play.google.com/store/apps/details?id=com.heidelberg.compass)).
     - DutyDoc App ([Android](https://play.google.com/store/apps/details?id=com.dutydoc.app&hl=en&gl=US))
@@ -88,4 +90,3 @@ My [Resume.](files/resume.pdf)
 <h3> 🤙 Connect With Me </h3>
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahid.info97@gmail.com)
-

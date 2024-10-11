@@ -1,4 +1,5 @@
 
+
 #### Hi, I am Jahid, who loves to craft solution, in a stupid yet effective way!
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejahid/)
@@ -48,13 +49,12 @@
 
 
 - 🔥 Live projects:
-    - Lafarge Holcim OneApp ([Android](https://play.google.com/store/apps/details?id=com.oneapp.lhblonline)).
+    - Lafarge Holcim OneApp ([Android](https://play.google.com/store/apps/details?id=com.oneapp.lhblonline) | [iOS](https://apps.apple.com/us/app/lh-oneapp/id6711348913)).
     - Heidelberg Materials Compass ([Android](https://play.google.com/store/apps/details?id=com.compass.hcbl)).
     - Drutoloan ([Android](https://play.google.com/store/apps/details?id=com.drutoloan)).
     - Grow ([Android](https://play.google.com/store/apps/details?id=com.heidelberg.compass)).
     - DutyDoc App ([Android](https://play.google.com/store/apps/details?id=com.dutydoc.app&hl=en&gl=US))
-    - Caretutors App ([Android](https://play.google.com/store/apps/details?id=com.caretutors)).
-    - Caretutors App ([iOS](https://apps.apple.com/app/caretutors/id1607736513)).
+    - Caretutors App ([Android](https://play.google.com/store/apps/details?id=com.caretutors) | [iOS](https://apps.apple.com/app/caretutors/id1607736513)).
     - Caretutors Merchant App([Android](https://play.google.com/store/apps/details?id=com.caretutors_merchant)).
 
 - 🔓 Opensource / Public Projects / Contributions:

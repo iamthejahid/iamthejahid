@@ -1,6 +1,7 @@
 
 
-#### Hi, I am Jahid, who loves to craft solution, in a stupid yet effective way!
+
+#### Hi, I am [Jahid](https://iamthejahid.netlify.app/), who loves to craft solution, in a stupid yet effective way!
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejahid/)
 [![](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14652317/xahid-rocks)
